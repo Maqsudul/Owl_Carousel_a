@@ -1,0 +1,12 @@
+.slide{
+    width: 900px;
+    margin: 0 auto;
+}
+.overlay{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.image-wrap{
+    margin: 5px;
+}
